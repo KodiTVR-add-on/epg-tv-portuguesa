@@ -7,6 +7,8 @@
 &lt;/channel&gt;">
 <pre><code># exemplo de canal no ficheiro .xml
 
+
+
 &lt;channel id="RTP 1"&gt;
 &lt;display-name lang="pt"&gt;RTP 1 HD&lt;/display-name&gt;
 &lt;url&gt;http://www.nos.pt&lt;/url&gt;
