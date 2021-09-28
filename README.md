@@ -5,12 +5,12 @@
 <code># exemplo de canal no ficheiro .xml
 <pre>
 &lt;channel id="RTP 1"&gt;
-&lt;display-name lang="pt"&gt;RTP 1 HD
-&lt;/display-name&gt;
+&lt;display-name lang="pt"&gt;RTP 1 HD&lt;/display-name&gt;
 &lt;url&gt;http://www.nos.pt&lt;/url&gt;
 &lt;/channel&gt;
 </code></pre></div>
-<p>Utilizando um exemplo de lista IPTV, basta que no campo "tvg-id" ou o campo do nome do canal seja igual ao "channel id", para que a grelha apareça corretamente para um determinado canal.</p>
+<p>Utilizando um exemplo de lista IPTV, basta que no campo "tvg-id" ou o campo do nome do canal seja igual ao "channel id", 
+para que a grelha apareça corretamente para um determinado canal.</p>
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="#EXTM3U
 #EXTINF:-1 tvg-id=&quot;RTP 1&quot;,NOME DO CANAL QUE QUISEREM
 http://null
