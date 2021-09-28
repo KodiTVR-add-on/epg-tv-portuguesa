@@ -3,6 +3,7 @@
 
 <pre>
 <code># exemplo de canal no ficheiro .xml
+<pre>
 &lt;channel id="RTP 1"&gt;
 &lt;display-name lang="pt"&gt;RTP 1 HD
 &lt;/display-name&gt;
