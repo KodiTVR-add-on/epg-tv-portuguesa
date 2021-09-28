@@ -3,10 +3,13 @@
 &lt;channel id=&quot;RTP 1&quot;&gt;
 &lt;display-name lang=&quot;pt&quot;&gt;RTP 1 HD
 &lt;/display-name&gt;
-&lt;url&gt;http://www.nos.pt
-&lt;/url&gt;
+&lt;url&gt;http://www.nos.pt&lt;/url&gt;
 &lt;/channel&gt;">
-<pre><code># exemplo de canal no ficheiro .xml
+<pre>
+<code># exemplo de canal no ficheiro .xml
+
+
+
 
 
 
