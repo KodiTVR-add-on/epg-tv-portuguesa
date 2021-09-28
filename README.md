@@ -1,4 +1,4 @@
-# <a href="#EPG-para-televisão-portuguesa">#epg-para-televisão-portuguesa</a>
+# <a href="#EPG-para-televisão-portuguesa">#EPG-para-televisão-portuguesa</a>
 <p>Exemplo de utilização:</p>
  &lt;channel id=&quot;RTP 1&quot;&gt;
  &lt;display-name lang=&quot;pt&quot;&gt;RTP 1 HD&lt;/display-name&gt;
